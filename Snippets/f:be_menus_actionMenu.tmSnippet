@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;f:be.menus.actionMenu&gt;
+	&lt;f:be.menus.actionMenuItem label="${1:&lt;f:translate key="$2" /&gt;}" controller="$3" action="$4" /&gt;
+	$5
+&lt;/f:be.menus.actionMenu&gt;</string>
+	<key>name</key>
+	<string>f:be.menus.actionMenu</string>
+	<key>tabTrigger</key>
+	<string>f:be.menus.actionMenu</string>
+	<key>uuid</key>
+	<string>07DA3D27-FB82-4150-89D8-2ED92F4F755C</string>
+</dict>
+</plist>

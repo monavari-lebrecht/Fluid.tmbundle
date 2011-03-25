@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;f:form.textbox property="$1" /&gt;</string>
+	<key>name</key>
+	<string>f:form.textbox</string>
+	<key>tabTrigger</key>
+	<string>f:form.textbox</string>
+	<key>uuid</key>
+	<string>7DCE48D0-F9CD-4227-8A57-7070BA55A10E</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;f:renderFlashMessages style="background-color: #dfd; padding: 12px;" /&gt;</string>
+	<key>name</key>
+	<string>f:renderFlashMessages</string>
+	<key>tabTrigger</key>
+	<string>f:renderFlashMessages</string>
+	<key>uuid</key>
+	<string>E08B8EBE-44F8-4AFD-864C-2B8377BE000B</string>
+</dict>
+</plist>

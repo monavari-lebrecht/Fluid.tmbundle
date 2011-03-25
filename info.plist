@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Fluid</string>
+	<key>ordering</key>
+	<array>
+		<string>725C919B-93E5-413D-A69A-EE86FB50C913</string>
+		<string>C127F131-DE82-40AD-A88C-56116301C44E</string>
+		<string>29124470-2A57-498A-B96D-E2099FEF72DA</string>
+		<string>B4532B22-1C87-4FD0-8C93-D18018238200</string>
+		<string>3F6678D4-9EA3-44AF-86E0-832F0DE945C0</string>
+		<string>49A7A840-D94A-43DB-8C26-A2B3CE42D945</string>
+		<string>9AFE6DCF-FEE7-4AF1-A4DC-D71D670DD8DB</string>
+		<string>405637E6-79C6-4B49-81E6-933AB2F3578C</string>
+		<string>EC95AA06-4397-4D2A-A2DF-4B2D9A3EB143</string>
+		<string>7DCE48D0-F9CD-4227-8A57-7070BA55A10E</string>
+		<string>83F3BEA4-4E5D-4708-AB11-473D8B4585A4</string>
+		<string>81D83B3D-69BE-40B6-B892-4AA02E97C46C</string>
+		<string>11CE0A99-5F28-4A00-A86F-CA3FFE087FEE</string>
+		<string>E08B8EBE-44F8-4AFD-864C-2B8377BE000B</string>
+		<string>AAF6944E-AA1F-4A0D-8ADA-7B00B7AEEB03</string>
+		<string>5F8DDF96-8C71-461C-95AB-6B76542BAA71</string>
+		<string>C58DE9EA-7ECB-4EF8-AC84-52A18ADB3769</string>
+		<string>A6430E30-20E3-43BA-A30D-40DA109C4B30</string>
+		<string>83744BD6-89AB-4574-B2DF-0F9AF4C37D51</string>
+		<string>85684115-4E88-40AD-BC07-9A64516BEA49</string>
+		<string>07DA3D27-FB82-4150-89D8-2ED92F4F755C</string>
+		<string>9AF2C46F-516B-4955-8FAF-C78D4D628644</string>
+	</array>
+	<key>uuid</key>
+	<string>DA37A985-FD91-4F4B-858C-A477BB2F11B4</string>
+</dict>
+</plist>
