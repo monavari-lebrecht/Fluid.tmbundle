@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;f:translate key="$1" /&gt;</string>
+	<string>{f:translate(key: '$1', ${2:arguments:{0: '$3'\}})}</string>
 	<key>name</key>
-	<string>f:translate Tag</string>
+	<string>f:translate Inline</string>
 	<key>tabTrigger</key>
 	<string>f:translate</string>
 	<key>uuid</key>
-	<string>11CE0A99-5F28-4A00-A86F-CA3FFE087FEE</string>
+	<string>02347353-08D3-4AB6-ADA3-47DA1BDEB6C1</string>
 </dict>
 </plist>
