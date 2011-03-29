@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;f:form.textbox property="$1" /&gt;</string>
+	<string>&lt;f:form.textfield ${1:property="$2"} ${3:value="$4" name="$5"} ${6:placeholder="$7"} /&gt;</string>
 	<key>name</key>
-	<string>f:form.textbox</string>
+	<string>f:form.textfield</string>
 	<key>tabTrigger</key>
-	<string>f:form.textbox</string>
+	<string>f:form.textfield</string>
 	<key>uuid</key>
 	<string>7DCE48D0-F9CD-4227-8A57-7070BA55A10E</string>
 </dict>
