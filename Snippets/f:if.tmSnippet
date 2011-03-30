@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;f:if condition="{$1}"&gt;
+	<string>&lt;f:if condition="{$1}$2"&gt;
 	&lt;f:then&gt;
-		$2
-	&lt;/f:then&gt;${3:
+		$3
+	&lt;/f:then&gt;${4:
 	&lt;f:else&gt;
-		$4
+		$5
 	&lt;/f:else&gt;
 }
 &lt;/f:if&gt;
