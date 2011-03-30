@@ -3,23 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;f:if condition="{$1}"&gt;
-	&lt;f:then&gt;
-		$2
-	&lt;/f:then&gt;${3:
-	&lt;f:else&gt;
-		$4
-	&lt;/f:else&gt;
-}
-&lt;/f:if&gt;
-</string>
+	<string>{f:if(condition:'{$1} ${2:== $3}' then:'$4')}</string>
 	<key>name</key>
-	<string>f:if Tag</string>
+	<string>f:if Inline</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>f:if</string>
 	<key>uuid</key>
-	<string>725C919B-93E5-413D-A69A-EE86FB50C913</string>
+	<string>674F0EB5-E6CA-4A7D-BB41-52BFCD53AC9B</string>
 </dict>
 </plist>
