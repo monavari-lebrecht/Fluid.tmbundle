@@ -36,7 +36,7 @@
 		|^[^{]*\}
 		)</string>
 	<key>keyEquivalent</key>
-	<string>@F</string>
+	<string>^~F</string>
 	<key>name</key>
 	<string>Fluid</string>
 	<key>patterns</key>
