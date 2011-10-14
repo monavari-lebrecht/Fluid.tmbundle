@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;f:uri.action ${1:controller="$2" }${3:action="$4" }${5:arguments="$6" }&gt;$7&lt;/f:link.action&gt;</string>
+	<string>&lt;f:uri.action ${1:controller="$2" }${3:action="$4" }${5:arguments="$6" } /&gt;$7</string>
 	<key>name</key>
 	<string>f:uri.action</string>
 	<key>tabTrigger</key>
