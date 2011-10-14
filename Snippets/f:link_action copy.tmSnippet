@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;f:uri.action ${1:controller="$2" }${3:action="$4" }${5:arguments="$6" }&gt;$7&lt;/f:link.action&gt;</string>
+	<key>name</key>
+	<string>f:uri.action</string>
+	<key>tabTrigger</key>
+	<string>f:uri.action</string>
+	<key>uuid</key>
+	<string>B2ABAA51-2A26-4A93-A89B-93C784B281FB</string>
+</dict>
+</plist>
