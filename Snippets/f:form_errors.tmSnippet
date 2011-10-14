@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;f:form.errors&gt;
+	{error.code} / {error.message}
+	${1:&lt;ul&gt;
+		&lt;f:for each="{error.errors}" as="errorDetail"&gt;
+			&lt;li&gt;{errorDetail.code\} / {errorDetail.message\} / {errorDetail.propertyName\}&lt;/li&gt;
+			${2:&lt;ul&gt;
+				&lt;f:for each="{errorDetail.errors\}" as="errorSuperDetail"&gt;
+					&lt;li&gt;{errorSuperDetail.code\}  {errorDetail.message\}&lt;/li&gt;
+				&lt;/f:for&gt;
+			&lt;/li&gt;
+		&lt;/ul&gt;}
+		&lt;/f:for&gt;
+	&lt;/ul&gt;}
+&lt;/f:form.errors&gt;$3
+</string>
+	<key>name</key>
+	<string>f:form.errors</string>
+	<key>tabTrigger</key>
+	<string>f:form.errors</string>
+	<key>uuid</key>
+	<string>E7839AD8-67AE-485A-A06B-A4008A3DD8DB</string>
+</dict>
+</plist>
